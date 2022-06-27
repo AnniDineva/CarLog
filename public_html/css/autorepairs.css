@@ -1,0 +1,49 @@
+.center{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+.mechanicBacground{
+    background-image: url("/images/car2.jpg");
+    background-repeat: no-repeat;
+    background-blend-mode: lighten;
+}
+.view{
+    background: url("/images/car.jpg")no-repeat center center;
+    background-size: cover;
+    height: 400px;
+}
+.reviewCar{
+    text-align: center;
+    font-size: 34px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.rounded{
+    border-radius: 2.125rem !important;
+}
+.padding-li{
+    padding-right: 50px !important;
+    padding-left: 50px!important;
+}
+.space{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+img{
+    width: 100%;
+}
+a:active {
+    background-color: #0056B3;
+    color: white;
+}
+.border{
+     border: 2px solid #0056B3 !important;
+
+}
+.fixbutton{
+    margin-top: 31px;
+}
+.tr{
+    background-color: red;
+}
